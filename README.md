@@ -24,6 +24,8 @@ Result will look like this:
 ![alt text](https://github.com/tithuytrang/masscompare/blob/master/6.png)
 
 First column: time
+
 Second column: intensity
+
 Last column: Peptide names
 
