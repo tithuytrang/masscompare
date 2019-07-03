@@ -1,7 +1,6 @@
 # masscompare
-Click on 1.exe to start.
 Step 1: start new match by clicking on New:
-
+![alt text](https://github.com/tithuytrang/masscompare/blob/master/1.png)
 Step 2: Select LC file (example: small-LC.csv)
 
 Step 3: Select Mass file (example: Small – mass mono.csv)
